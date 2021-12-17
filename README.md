@@ -15,11 +15,12 @@ In our final project we want to assess how viruses (e.g. SARS-CoV-2) spread on s
 
 For this purpose 3 synthetic network models and 3 different real world networks were invesitgated.
 
+#### Synthetic network models
 1. Barabási–Albert Graph
 2. Erdős–Rényi Graph
 3. Watts–Strogatz Graph
 
-
+#### Real world networks
 5. Facebook Friendships
 6. Sex Escorts
 7. Contact Tracing
